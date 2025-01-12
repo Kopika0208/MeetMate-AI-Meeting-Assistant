@@ -1,1 +1,2 @@
-# MeetMate-AI-Meeting-Assistant
+# Meeting-Assistant
+https://meetmatefinal.onrender.com/
