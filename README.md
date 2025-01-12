@@ -1,3 +1,5 @@
+# MeetMate
+
 ## Inspiration
 
 Our main inspiration for this project is the time-consuming task of creating Meeting Minutes by hand after every virtual meeting. As college students who are part of several student chapters, we felt that there is a serious need to automate this tedious yet crucial job, and we realised the potential AI can bring into this field. Thus MeetMate was born, the perfect AI companion for all your meeting summarisation tasks.
