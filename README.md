@@ -15,5 +15,3 @@ We built MeetMate in Python and utilised Microsoft's Azure AI Foundry, Azure Spe
 ## Built With
 
 AI, Azure-AI, CSS3, Javascript, HTML5, Github-Copilot, Openai, Python, Redis, Azure Speech-to-text
-
-https://meetmate-ai-meeting-assistant.onrender.com
